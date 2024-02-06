@@ -8,4 +8,7 @@ add_executable(data_structure_cpp
         cpp_review_exercise.cpp
         Currency.cpp
         Currency.h
+        coordin.h
+        coordin.cpp
+        main.cpp
 )

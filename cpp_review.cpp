@@ -76,8 +76,8 @@ namespace recursive{
         }
     }
 }
-int main(void ){
-    using namespace std;
-    cout << recursive::Fob(4) << endl;
-}
+//int main(void){
+//    using namespace std;
+//    cout << recursive::Fob(4) << endl;
+//}
 
