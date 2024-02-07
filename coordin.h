@@ -24,4 +24,8 @@ struct rect{
 // prototypes
 polar rect_to_polar(rect xypos);
 rect poler_to_rect(polar dapos);
+//int golabl_1 = 100;
+extern int global;
+extern int global_def;
+//int global_def = 10;
 #endif //DATA_STRUCTURE_CPP_COORDIN_H

@@ -79,6 +79,18 @@ build CMakeFiles/data_structure_cpp.dir/main.cpp.obj: CXX_COMPILER__data_structu
   OBJECT_DIR = CMakeFiles\data_structure_cpp.dir
   OBJECT_FILE_DIR = CMakeFiles\data_structure_cpp.dir
 
+build CMakeFiles/data_structure_cpp.dir/stock00.cpp.obj: CXX_COMPILER__data_structure_cpp_unscanned_Debug D$:/data_structure_cpp/stock00.cpp || cmake_object_order_depends_target_data_structure_cpp
+  DEP_FILE = CMakeFiles\data_structure_cpp.dir\stock00.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\data_structure_cpp.dir
+  OBJECT_FILE_DIR = CMakeFiles\data_structure_cpp.dir
+
+build CMakeFiles/data_structure_cpp.dir/mytime.cpp.obj: CXX_COMPILER__data_structure_cpp_unscanned_Debug D$:/data_structure_cpp/mytime.cpp || cmake_object_order_depends_target_data_structure_cpp
+  DEP_FILE = CMakeFiles\data_structure_cpp.dir\mytime.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\data_structure_cpp.dir
+  OBJECT_FILE_DIR = CMakeFiles\data_structure_cpp.dir
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target data_structure_cpp
@@ -87,7 +99,7 @@ build CMakeFiles/data_structure_cpp.dir/main.cpp.obj: CXX_COMPILER__data_structu
 #############################################
 # Link the executable data_structure_cpp.exe
 
-build data_structure_cpp.exe: CXX_EXECUTABLE_LINKER__data_structure_cpp_Debug CMakeFiles/data_structure_cpp.dir/cpp_review.cpp.obj CMakeFiles/data_structure_cpp.dir/cpp_review_exercise.cpp.obj CMakeFiles/data_structure_cpp.dir/Currency.cpp.obj CMakeFiles/data_structure_cpp.dir/coordin.cpp.obj CMakeFiles/data_structure_cpp.dir/main.cpp.obj
+build data_structure_cpp.exe: CXX_EXECUTABLE_LINKER__data_structure_cpp_Debug CMakeFiles/data_structure_cpp.dir/cpp_review.cpp.obj CMakeFiles/data_structure_cpp.dir/cpp_review_exercise.cpp.obj CMakeFiles/data_structure_cpp.dir/Currency.cpp.obj CMakeFiles/data_structure_cpp.dir/coordin.cpp.obj CMakeFiles/data_structure_cpp.dir/main.cpp.obj CMakeFiles/data_structure_cpp.dir/stock00.cpp.obj CMakeFiles/data_structure_cpp.dir/mytime.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\data_structure_cpp.dir

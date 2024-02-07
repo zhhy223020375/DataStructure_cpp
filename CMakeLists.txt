@@ -11,4 +11,8 @@ add_executable(data_structure_cpp
         coordin.h
         coordin.cpp
         main.cpp
+        stock00.cpp
+        stock00.h
+        mytime.cpp
+        mytime.h
 )

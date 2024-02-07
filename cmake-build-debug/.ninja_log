@@ -1,15 +1,9 @@
 # ninja log v5
-544	662	7272111011336382	data_structure_cpp.exe	7bbfe470871aeedb
-1	661	7260788388625343	CMakeFiles/data_structure_cpp.dir/main.cpp.obj	71602292955c5f31
-1	144	7289105228179541	build.ninja	8c859a2356e0771a
-6	543	7272111010193958	CMakeFiles/data_structure_cpp.dir/cpp_review.cpp.obj	2b3215d84c946c96
+470	593	7290028193238390	data_structure_cpp.exe	ff2448a478447f0
+9	470	7290028192051800	CMakeFiles/data_structure_cpp.dir/main.cpp.obj	71602292955c5f31
+1	144	7290239507085914	build.ninja	8c859a2356e0771a
+3	536	7289259454845677	CMakeFiles/data_structure_cpp.dir/cpp_review.cpp.obj	2b3215d84c946c96
 8	783	7271223013003660	CMakeFiles/data_structure_cpp.dir/cpp_review_exercise.cpp.obj	57279f355c2f1953
 11	590	7272105661695646	CMakeFiles/data_structure_cpp.dir/Currency.cpp.obj	ada63dc50ad6046e
-10	636	7289107006292814	CMakeFiles/data_structure_cpp.dir/coordin.cpp.obj	6eb9ad73873f7741
-3	723	7289107007188191	CMakeFiles/data_structure_cpp.dir/cpp_review.cpp.obj	2b3215d84c946c96
-14	724	7289107007198198	CMakeFiles/data_structure_cpp.dir/main.cpp.obj	71602292955c5f31
-725	1047	7289107010382127	data_structure_cpp.exe	f993db31f301abd
-3	468	7289114502834296	CMakeFiles/data_structure_cpp.dir/main.cpp.obj	71602292955c5f31
-469	575	7289114503847652	data_structure_cpp.exe	f993db31f301abd
-3	399	7289115777422287	CMakeFiles/data_structure_cpp.dir/main.cpp.obj	71602292955c5f31
-399	495	7289115778361036	data_structure_cpp.exe	f993db31f301abd
+3	467	7290028192010940	CMakeFiles/data_structure_cpp.dir/stock00.cpp.obj	5198498d2191a680
+12	604	7290012535756726	CMakeFiles/data_structure_cpp.dir/coordin.cpp.obj	6eb9ad73873f7741
