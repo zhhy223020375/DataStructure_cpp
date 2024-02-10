@@ -15,4 +15,6 @@ add_executable(data_structure_cpp
         stock00.h
         mytime.cpp
         mytime.h
+        StringBad.cpp
+        StringBad.h
 )
