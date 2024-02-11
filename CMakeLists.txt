@@ -4,17 +4,19 @@ project(data_structure_cpp)
 set(CMAKE_CXX_STANDARD 17)
 
 add_executable(data_structure_cpp
-        cpp_review.cpp
-        cpp_review_exercise.cpp
-        Currency.cpp
-        Currency.h
-        coordin.h
-        coordin.cpp
+        test/cpp_review.cpp
+        test/cpp_review_exercise.cpp
+        test/Currency.cpp
+        test/Currency.h
+        test/coordin.h
+        test/coordin.cpp
         main.cpp
-        stock00.cpp
-        stock00.h
-        mytime.cpp
-        mytime.h
-        StringBad.cpp
-        StringBad.h
+        test/stock00.cpp
+        test/stock00.h
+        test/mytime.cpp
+        test/mytime.h
+        test/StringBad.cpp
+        test/StringBad.h
+        LinearList/LinearList.cpp
+        LinearList/LinearList.h
 )

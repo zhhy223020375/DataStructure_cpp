@@ -1,10 +1,11 @@
 # ninja log v5
-914	1338	7292399506483665	data_structure_cpp.exe	5d3a45ca54386372
-14	913	7292399502265768	CMakeFiles/data_structure_cpp.dir/main.cpp.obj	71602292955c5f31
-1	144	7292592487631867	build.ninja	8c859a2356e0771a
+700	877	7292820719534651	data_structure_cpp.exe	4936bb6a849bd2ff
+4	686	7292820717674002	CMakeFiles/data_structure_cpp.dir/main.cpp.obj	71602292955c5f31
+1	144	7293590761991440	build.ninja	8c859a2356e0771a
 3	536	7289259454845677	CMakeFiles/data_structure_cpp.dir/cpp_review.cpp.obj	2b3215d84c946c96
 8	783	7271223013003660	CMakeFiles/data_structure_cpp.dir/cpp_review_exercise.cpp.obj	57279f355c2f1953
 11	590	7272105661695646	CMakeFiles/data_structure_cpp.dir/Currency.cpp.obj	ada63dc50ad6046e
 15	885	7290248663903842	CMakeFiles/data_structure_cpp.dir/stock00.cpp.obj	5198498d2191a680
 12	604	7290012535756726	CMakeFiles/data_structure_cpp.dir/coordin.cpp.obj	6eb9ad73873f7741
-7	914	7292399502288386	CMakeFiles/data_structure_cpp.dir/mytime.cpp.obj	cacafcae051da8fd
+10	680	7292596500981577	CMakeFiles/data_structure_cpp.dir/mytime.cpp.obj	cacafcae051da8fd
+9	700	7292820717801748	CMakeFiles/data_structure_cpp.dir/StringBad.cpp.obj	c2faee2879b063d3
