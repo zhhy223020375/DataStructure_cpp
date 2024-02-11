@@ -49,29 +49,29 @@ cmake_ninja_workdir = D$:/data_structure_cpp/cmake-build-debug/
 
 build cmake_object_order_depends_target_data_structure_cpp: phony || CMakeFiles/data_structure_cpp.dir
 
-build CMakeFiles/data_structure_cpp.dir/cpp_review.cpp.obj: CXX_COMPILER__data_structure_cpp_unscanned_Debug D$:/data_structure_cpp/cpp_review.cpp || cmake_object_order_depends_target_data_structure_cpp
-  DEP_FILE = CMakeFiles\data_structure_cpp.dir\cpp_review.cpp.obj.d
+build CMakeFiles/data_structure_cpp.dir/test/cpp_review.cpp.obj: CXX_COMPILER__data_structure_cpp_unscanned_Debug D$:/data_structure_cpp/test/cpp_review.cpp || cmake_object_order_depends_target_data_structure_cpp
+  DEP_FILE = CMakeFiles\data_structure_cpp.dir\test\cpp_review.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\data_structure_cpp.dir
-  OBJECT_FILE_DIR = CMakeFiles\data_structure_cpp.dir
+  OBJECT_FILE_DIR = CMakeFiles\data_structure_cpp.dir\test
 
-build CMakeFiles/data_structure_cpp.dir/cpp_review_exercise.cpp.obj: CXX_COMPILER__data_structure_cpp_unscanned_Debug D$:/data_structure_cpp/cpp_review_exercise.cpp || cmake_object_order_depends_target_data_structure_cpp
-  DEP_FILE = CMakeFiles\data_structure_cpp.dir\cpp_review_exercise.cpp.obj.d
+build CMakeFiles/data_structure_cpp.dir/test/cpp_review_exercise.cpp.obj: CXX_COMPILER__data_structure_cpp_unscanned_Debug D$:/data_structure_cpp/test/cpp_review_exercise.cpp || cmake_object_order_depends_target_data_structure_cpp
+  DEP_FILE = CMakeFiles\data_structure_cpp.dir\test\cpp_review_exercise.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\data_structure_cpp.dir
-  OBJECT_FILE_DIR = CMakeFiles\data_structure_cpp.dir
+  OBJECT_FILE_DIR = CMakeFiles\data_structure_cpp.dir\test
 
-build CMakeFiles/data_structure_cpp.dir/Currency.cpp.obj: CXX_COMPILER__data_structure_cpp_unscanned_Debug D$:/data_structure_cpp/Currency.cpp || cmake_object_order_depends_target_data_structure_cpp
-  DEP_FILE = CMakeFiles\data_structure_cpp.dir\Currency.cpp.obj.d
+build CMakeFiles/data_structure_cpp.dir/test/Currency.cpp.obj: CXX_COMPILER__data_structure_cpp_unscanned_Debug D$:/data_structure_cpp/test/Currency.cpp || cmake_object_order_depends_target_data_structure_cpp
+  DEP_FILE = CMakeFiles\data_structure_cpp.dir\test\Currency.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\data_structure_cpp.dir
-  OBJECT_FILE_DIR = CMakeFiles\data_structure_cpp.dir
+  OBJECT_FILE_DIR = CMakeFiles\data_structure_cpp.dir\test
 
-build CMakeFiles/data_structure_cpp.dir/coordin.cpp.obj: CXX_COMPILER__data_structure_cpp_unscanned_Debug D$:/data_structure_cpp/coordin.cpp || cmake_object_order_depends_target_data_structure_cpp
-  DEP_FILE = CMakeFiles\data_structure_cpp.dir\coordin.cpp.obj.d
+build CMakeFiles/data_structure_cpp.dir/test/coordin.cpp.obj: CXX_COMPILER__data_structure_cpp_unscanned_Debug D$:/data_structure_cpp/test/coordin.cpp || cmake_object_order_depends_target_data_structure_cpp
+  DEP_FILE = CMakeFiles\data_structure_cpp.dir\test\coordin.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\data_structure_cpp.dir
-  OBJECT_FILE_DIR = CMakeFiles\data_structure_cpp.dir
+  OBJECT_FILE_DIR = CMakeFiles\data_structure_cpp.dir\test
 
 build CMakeFiles/data_structure_cpp.dir/main.cpp.obj: CXX_COMPILER__data_structure_cpp_unscanned_Debug D$:/data_structure_cpp/main.cpp || cmake_object_order_depends_target_data_structure_cpp
   DEP_FILE = CMakeFiles\data_structure_cpp.dir\main.cpp.obj.d
@@ -79,23 +79,23 @@ build CMakeFiles/data_structure_cpp.dir/main.cpp.obj: CXX_COMPILER__data_structu
   OBJECT_DIR = CMakeFiles\data_structure_cpp.dir
   OBJECT_FILE_DIR = CMakeFiles\data_structure_cpp.dir
 
-build CMakeFiles/data_structure_cpp.dir/stock00.cpp.obj: CXX_COMPILER__data_structure_cpp_unscanned_Debug D$:/data_structure_cpp/stock00.cpp || cmake_object_order_depends_target_data_structure_cpp
-  DEP_FILE = CMakeFiles\data_structure_cpp.dir\stock00.cpp.obj.d
+build CMakeFiles/data_structure_cpp.dir/test/stock00.cpp.obj: CXX_COMPILER__data_structure_cpp_unscanned_Debug D$:/data_structure_cpp/test/stock00.cpp || cmake_object_order_depends_target_data_structure_cpp
+  DEP_FILE = CMakeFiles\data_structure_cpp.dir\test\stock00.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\data_structure_cpp.dir
-  OBJECT_FILE_DIR = CMakeFiles\data_structure_cpp.dir
+  OBJECT_FILE_DIR = CMakeFiles\data_structure_cpp.dir\test
 
-build CMakeFiles/data_structure_cpp.dir/mytime.cpp.obj: CXX_COMPILER__data_structure_cpp_unscanned_Debug D$:/data_structure_cpp/mytime.cpp || cmake_object_order_depends_target_data_structure_cpp
-  DEP_FILE = CMakeFiles\data_structure_cpp.dir\mytime.cpp.obj.d
+build CMakeFiles/data_structure_cpp.dir/test/mytime.cpp.obj: CXX_COMPILER__data_structure_cpp_unscanned_Debug D$:/data_structure_cpp/test/mytime.cpp || cmake_object_order_depends_target_data_structure_cpp
+  DEP_FILE = CMakeFiles\data_structure_cpp.dir\test\mytime.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\data_structure_cpp.dir
-  OBJECT_FILE_DIR = CMakeFiles\data_structure_cpp.dir
+  OBJECT_FILE_DIR = CMakeFiles\data_structure_cpp.dir\test
 
-build CMakeFiles/data_structure_cpp.dir/StringBad.cpp.obj: CXX_COMPILER__data_structure_cpp_unscanned_Debug D$:/data_structure_cpp/StringBad.cpp || cmake_object_order_depends_target_data_structure_cpp
-  DEP_FILE = CMakeFiles\data_structure_cpp.dir\StringBad.cpp.obj.d
+build CMakeFiles/data_structure_cpp.dir/test/StringBad.cpp.obj: CXX_COMPILER__data_structure_cpp_unscanned_Debug D$:/data_structure_cpp/test/StringBad.cpp || cmake_object_order_depends_target_data_structure_cpp
+  DEP_FILE = CMakeFiles\data_structure_cpp.dir\test\StringBad.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\data_structure_cpp.dir
-  OBJECT_FILE_DIR = CMakeFiles\data_structure_cpp.dir
+  OBJECT_FILE_DIR = CMakeFiles\data_structure_cpp.dir\test
 
 build CMakeFiles/data_structure_cpp.dir/LinearList/LinearList.cpp.obj: CXX_COMPILER__data_structure_cpp_unscanned_Debug D$:/data_structure_cpp/LinearList/LinearList.cpp || cmake_object_order_depends_target_data_structure_cpp
   DEP_FILE = CMakeFiles\data_structure_cpp.dir\LinearList\LinearList.cpp.obj.d
@@ -111,7 +111,7 @@ build CMakeFiles/data_structure_cpp.dir/LinearList/LinearList.cpp.obj: CXX_COMPI
 #############################################
 # Link the executable data_structure_cpp.exe
 
-build data_structure_cpp.exe: CXX_EXECUTABLE_LINKER__data_structure_cpp_Debug CMakeFiles/data_structure_cpp.dir/cpp_review.cpp.obj CMakeFiles/data_structure_cpp.dir/cpp_review_exercise.cpp.obj CMakeFiles/data_structure_cpp.dir/Currency.cpp.obj CMakeFiles/data_structure_cpp.dir/coordin.cpp.obj CMakeFiles/data_structure_cpp.dir/main.cpp.obj CMakeFiles/data_structure_cpp.dir/stock00.cpp.obj CMakeFiles/data_structure_cpp.dir/mytime.cpp.obj CMakeFiles/data_structure_cpp.dir/StringBad.cpp.obj CMakeFiles/data_structure_cpp.dir/LinearList/LinearList.cpp.obj
+build data_structure_cpp.exe: CXX_EXECUTABLE_LINKER__data_structure_cpp_Debug CMakeFiles/data_structure_cpp.dir/test/cpp_review.cpp.obj CMakeFiles/data_structure_cpp.dir/test/cpp_review_exercise.cpp.obj CMakeFiles/data_structure_cpp.dir/test/Currency.cpp.obj CMakeFiles/data_structure_cpp.dir/test/coordin.cpp.obj CMakeFiles/data_structure_cpp.dir/main.cpp.obj CMakeFiles/data_structure_cpp.dir/test/stock00.cpp.obj CMakeFiles/data_structure_cpp.dir/test/mytime.cpp.obj CMakeFiles/data_structure_cpp.dir/test/StringBad.cpp.obj CMakeFiles/data_structure_cpp.dir/LinearList/LinearList.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\data_structure_cpp.dir

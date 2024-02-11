@@ -2,35 +2,48 @@
 // Created by Zhang on 2024/2/6.
 //
 #include <iostream>
-#include "test/coordin.h"
-#include "test/stock00.h"
-#include "test/mytime.h"
-#include "test/StringBad.h"
-int func_1(void ){
-    using namespace std;
-    static int func_in_1 = 5;
-    cout << func_in_1 << endl;
-    func_in_1 ++;
-    int func_in_2 = 2;
-    cout << func_in_2 << endl;
-    func_in_2 ++;
-    return 0;
+#include "LinearList/LinearList.h"
+#include "LinearList/LinearList.cpp"
+int main(void ) {
+    int a = 20;
+    ArrayList<int> arr_l1(10);
+    ArrayList<int> arr_l2(arr_l1);
 }
-int global = 0;
-const static int one_file = 10;
-// 这个东西和直接拿来用得到的效果是一样的
-//extern int golabl_1 = 1000;
-void func1(StringBad s){
-    std::cout << s << std::endl;
-}
-int main(void ){
-//    std::cin << char a ;
-    StringBad str_bad1("String Bad 1");
-    std::cout << str_bad1 << std::endl;
-    func1(str_bad1);
-    std::cout <<str_bad1 <<std::endl;
-    StringBad str_bad2;
-    str_bad2 = str_bad1;
-    std::cout << str_bad2 << std::endl;
-    std::cout << str_bad1+str_bad2 << std::endl;
-}
+//// 在类的声明中使用模板
+//template<typename T>
+//class MyClass {
+//public:
+//    MyClass(T val); // 模板构造函数
+//    void setValue(T val); // 模板成员函数
+//    T getValue() const; // 模板成员函数
+//
+//private:
+//    T data; // 模板数据成员
+//};
+//
+//// 类外部的成员函数定义
+//template<typename T>
+//MyClass<T>::MyClass(T val) : data(val) {}
+//
+//template<typename T>
+//void MyClass<T>::setValue(T val) {
+//    data = val;
+//}
+//
+//template<typename T>
+//T MyClass<T>::getValue() const {
+//    return data;
+//}
+//
+//// 使用示例
+//int main() {
+//    // 实例化 MyClass 模板类，传入 int 类型
+//    MyClass<int> myInt(42);
+//    std::cout << "Value: " << myInt.getValue() << std::endl;
+
+    // 实例化 MyClass 模板类，传入 double 类型
+//    MyClass<double> myDouble(3.14);
+//    std::cout << "Value: " << myDouble.getValue() << std::endl;
+//
+//    return 0;
+//}
