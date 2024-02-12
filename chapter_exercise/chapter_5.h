@@ -1,0 +1,8 @@
+//
+// Created by Zhang on 2024/2/12.
+//
+
+#ifndef DATA_STRUCTURE_CPP_CHAPTER_5_H
+#define DATA_STRUCTURE_CPP_CHAPTER_5_H
+void C5_E1();
+#endif //DATA_STRUCTURE_CPP_CHAPTER_5_H

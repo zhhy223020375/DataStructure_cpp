@@ -19,4 +19,6 @@ add_executable(data_structure_cpp
         test/StringBad.h
         LinearList/LinearList.cpp
         LinearList/LinearList.h
+        chapter_exercise/chapter_5.cpp
+        chapter_exercise/chapter_5.h
 )

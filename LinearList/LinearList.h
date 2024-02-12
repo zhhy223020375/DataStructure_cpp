@@ -14,17 +14,18 @@
 // output: 从左到右依次输出线性表的各个元素，从这个也可以看出来线性表是一种有序表，不是set
 
 // 线性表的抽象基类
-//template <class T>
+template <typename T>
 class LinearList {
 public:
-//    virtual LinearList();
-//    virtual ~LinearList()=0;
-//    virtual bool empty() const=0;
-//    virtual int size() const=0;
-//    virtual T get(int index) const=0;
-//    virtual int index(const T & element) const=0;
-//    virtual void erase(int index) = 0;
-//    virtual void insert(int index, const T & element) = 0;
+//    抽象基类的构造函数不用写
+//    virtual LinearList(){};
+    virtual ~LinearList(){};
+    virtual bool empty() const=0;
+    virtual int size() const=0;
+    virtual T get(int index) const=0;
+    virtual int index(const T & element) const=0;
+    virtual void erase(int index) = 0;
+    virtual void insert(int index, const T & element) = 0;
 //    virtual void output()=0;
 };
 
